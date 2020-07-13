@@ -1,2 +1,1 @@
-mepal 9899
-yondro 8908
+mepal 9899 yondro 8908
